@@ -1,0 +1,38 @@
+h2 {
+    padding: 10px;
+    font-family: roboto;
+}
+
+input[type=text] {
+    width: 70%;
+    height: 150px;
+    padding: 12px 20px;
+    margin-left: 50px;
+    box-sizing: border-box;
+  }
+
+button.ouvir-button {
+    font-family: roboto;
+    position: absolute;
+    display: block;
+    right: 10px;
+    top: 18px;
+    box-sizing: border-box;
+}
+
+div.hold-div {
+    position: relative;
+    border: 1px solid #ccc;
+    height: 60px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    background-color: #eee;
+}
+
+p {
+    font-family: roboto;
+    display: block;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 50px;
+}

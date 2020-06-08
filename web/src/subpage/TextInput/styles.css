@@ -1,0 +1,23 @@
+h2.Input-title {
+    padding: 10px;
+    margin-left: 50px;
+    font-family: roboto;
+}
+
+textarea {
+    font-family: roboto;
+    width: 70%;
+    height: 150px;
+    padding: 12px 20px;
+    margin-left: 50px;
+    box-sizing: border-box;
+  }
+
+button.Input-button {
+    font-family: roboto;
+    width: 70%;
+    padding: 12px 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
